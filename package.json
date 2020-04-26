@@ -1,0 +1,22 @@
+{
+  "name": "unleash-example-customer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivarconr/unleash-example-customer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivarconr/unleash-example-customer/issues"
+  },
+  "homepage": "https://github.com/ivarconr/unleash-example-customer#readme",
+  "dependencies": {
+    "@ivarconr/unleash-enterprise": "^3.2.30"
+  }
+}
